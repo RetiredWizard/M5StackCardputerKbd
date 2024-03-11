@@ -153,8 +153,8 @@ class Cardputer():
 
 # Exmple Usage:
 #
-cardputer = Cardputer()
+#cardputer = Cardputer()
 
-while True:
-    print(cardputer.check_keyboard(),end="")
+#while True:
+#    print(cardputer.check_keyboard(),end="")
 
